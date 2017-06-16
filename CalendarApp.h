@@ -17,8 +17,8 @@ public:
 		string nam, string note);
 	void removeMeeting(string, string);
 	void showMeetings(string);
-	//void createRegMeet();
-	//void suggestMeet();
+	//void createRegMeet(); //to be added
+	//void suggestMeet(); //to be added
 	void load();
 	void save();
 };
